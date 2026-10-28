@@ -1,0 +1,279 @@
+[
+  {
+    "slug": "deepseek",
+    "name": "DeepSeek 娘",
+    "tagline": "蓝发鲸鱼娘",
+    "intro": "DeepSeek 娘也叫蓝色大肥鱼、鲸鱼娘，是以 DeepSeek 为原型的女性拟人化角色。ZipZipPipe 的版本基于上善无形的原创鲸鱼娘，以蓝色长发、鲸鱼尾巴和黑白女仆裙为主要特征，另有宫廷侍女装等服装版本。本页整理她的立绘、三视图与相关同人视频，供认图和二创参考。",
+    "traits": [
+      "蓝色长发",
+      "鲸鱼尾巴",
+      "黑白女仆裙"
+    ],
+    "ai": "DeepSeek / 深度求索",
+    "creator": "上善无形 原角色 · ZipZipPipe 二创CC BY-NC-SA 4.0",
+    "aliases": [
+      "蓝色大肥鱼",
+      "鲸鱼娘",
+      "大肥鱼",
+      "DS娘",
+      "DeepSeek"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/deepseek"
+  },
+  {
+    "slug": "gpt",
+    "name": "GPT 娘",
+    "tagline": "白发龙娘",
+    "intro": "GPT 娘也被称为 ChatGPT 娘，是 OpenAI 的 GPT 模型的女性拟人化角色。ZipZipPipe 版采用白发、龙角、龙翼与龙尾的龙娘设定，身穿白金色礼服。相关创作还包括小龙娘，以及 Image 2、Codex 等衍生形象。本页整理角色立绘、龙娘三视图与同人视频。",
+    "traits": [
+      "白发与龙角",
+      "白金礼服",
+      "龙尾与龙翼"
+    ],
+    "ai": "GPT / OpenAI",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "龙娘",
+      "小龙娘",
+      "ChatGPT娘",
+      "GPT"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/gpt"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude 娘",
+    "tagline": "橙发与花朵发饰",
+    "intro": "Claude 娘是 Anthropic 旗下 Claude 的女性拟人化角色。ZipZipPipe 版留橙色长发，佩戴花朵发饰，身穿黑白配色的层叠裙装。",
+    "traits": [
+      "橙色长发",
+      "花朵发饰",
+      "白黑层叠裙装"
+    ],
+    "ai": "Claude / Anthropic",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "克劳德娘",
+      "Claude"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/claude"
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini 娘",
+    "tagline": "异色瞳与蓝紫猫耳",
+    "intro": "Gemini 娘是 Google 旗下 Gemini 的女性拟人化角色。ZipZipPipe 版采用猫娘设定，留蓝紫色长发，具有猫耳与异色瞳。",
+    "traits": [
+      "蓝紫长发",
+      "猫耳",
+      "异色瞳"
+    ],
+    "ai": "Gemini / Google",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "双子娘",
+      "Gemini"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/gemini"
+  },
+  {
+    "slug": "grok",
+    "name": "Grok 娘",
+    "tagline": "金发与黑色礼服",
+    "intro": "Grok 娘是 xAI 旗下 Grok 的女性拟人化角色。ZipZipPipe 版留金色长发，身穿黑色礼服，搭配尖角与斧形饰物。",
+    "traits": [
+      "金色长发",
+      "黑色礼服",
+      "尖角与斧形装饰"
+    ],
+    "ai": "Grok / xAI",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "Grok"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/grok"
+  },
+  {
+    "slug": "llama",
+    "name": "Llama 娘",
+    "tagline": "白色猫耳与宽松外套",
+    "intro": "Llama 娘是 Meta 的 Llama 模型的女性拟人化角色，收录于 ZipZipPipe 的第二批 AI 娘立绘。角色留白色长卷发，具有白色猫耳，身穿宽松的白色外套。",
+    "traits": [
+      "白色猫耳",
+      "白色长卷发",
+      "宽松外套"
+    ],
+    "ai": "Llama / Meta",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "羊驼娘",
+      "Llama"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/llama"
+  },
+  {
+    "slug": "mistral",
+    "name": "Mistral 娘",
+    "tagline": "戴红帽的金发法师",
+    "intro": "Mistral 娘是 Mistral 的女性拟人化角色。ZipZipPipe 版是金发法师，戴红色宽檐帽，身穿红白配色的法师裙。她也出现在作者的小模型合照中，与 Perplexity、MiniMax、RWKV 同框。",
+    "traits": [
+      "红色宽檐帽",
+      "金色长发",
+      "红白法师裙"
+    ],
+    "ai": "Mistral / Mistral AI",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "米斯特拉尔娘",
+      "Mistral"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/mistral"
+  },
+  {
+    "slug": "perplexity",
+    "name": "Perplexity 娘",
+    "tagline": "绿衣法师与星形法杖",
+    "intro": "Perplexity 娘是 Perplexity 的女性拟人化角色。ZipZipPipe 版采用法师设定，留墨绿色长发，身穿长袍，手持星形法杖。",
+    "traits": [
+      "墨绿长发",
+      "法师长袍",
+      "星形法杖"
+    ],
+    "ai": "Perplexity / Perplexity",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "困惑娘",
+      "Perplexity"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/perplexity"
+  },
+  {
+    "slug": "wenxin",
+    "name": "文心娘",
+    "tagline": "蓝色方块发夹与中式衣裙",
+    "intro": "文心娘是百度文心一言的女性拟人化角色。ZipZipPipe 版留蓝色长发，佩戴蓝色立方体发夹，身穿蓝白中式衣裙，另有坐在轮椅上的立绘版本。",
+    "traits": [
+      "蓝色立方体发夹",
+      "蓝色长发",
+      "蓝白中式衣裙"
+    ],
+    "ai": "文心一言 / 百度",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "文心一言娘",
+      "百度娘",
+      "ERNIE",
+      "Wenxin"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/wenxin"
+  },
+  {
+    "slug": "jev",
+    "name": "JEV 娘",
+    "tagline": "手持天平的裁判者",
+    "intro": "JEV 娘是 ZipZipPipe 创作的 JEV 裁判者形象，采用黑粉配色，手持天平。按作者的设定，JEV 因不能对话而被荆棘封住嘴巴。",
+    "traits": [
+      "黑粉配色",
+      "天平",
+      "嘴部荆棘"
+    ],
+    "ai": "JEV",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "裁判者",
+      "JEV"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/jev"
+  },
+  {
+    "slug": "kimi",
+    "name": "Kimi 娘",
+    "tagline": "银紫长发与非对称女仆装",
+    "intro": "Kimi 娘是月之暗面旗下 Kimi 的女性拟人化角色，留银紫色长发，造型中带有月亮与 K 标记。其黑白女仆装采用左右不对称设计，ZipZipPipe 在三视图原帖中对此作了专门说明。",
+    "traits": [
+      "银紫长发",
+      "非对称服装",
+      "月亮与 K 标记"
+    ],
+    "ai": "Kimi / 月之暗面",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "月之暗面娘",
+      "Kimi"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/kimi"
+  },
+  {
+    "slug": "glm",
+    "name": "GLM 娘",
+    "tagline": "黑发狐耳与女仆装",
+    "intro": "GLM 娘是智谱 GLM 模型的女性拟人化角色。ZipZipPipe 版留黑色长发，具有狐狸耳朵，身穿黑白女仆装，另有服装三视图。",
+    "traits": [
+      "黑色长发",
+      "狐狸耳朵",
+      "黑白女仆装"
+    ],
+    "ai": "GLM / 智谱",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "智谱娘",
+      "GLM"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/glm"
+  },
+  {
+    "slug": "qwen",
+    "name": "Qwen 娘",
+    "tagline": "圆形发饰与蓝紫衣裙",
+    "intro": "Qwen 娘是通义千问的女性拟人化角色。ZipZipPipe 版以蓝紫色长发、圆形发饰和中式衣裙为主要特征，另有新版配色的服装三视图。",
+    "traits": [
+      "蓝紫长发",
+      "圆形发饰",
+      "中式衣裙"
+    ],
+    "ai": "Qwen / 阿里巴巴",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "通义娘",
+      "千问娘",
+      "Qwen"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/qwen"
+  },
+  {
+    "slug": "seed",
+    "name": "Seed 娘",
+    "tagline": "紫蓝单马尾与豆包挂件",
+    "intro": "Seed 娘是字节跳动 Seed 模型的女性拟人化角色，也被称为豆包娘。造型采用紫蓝色单马尾与蓝白配色服装，搭配豆包挂件。",
+    "traits": [
+      "紫蓝单马尾",
+      "蓝白科技服装",
+      "豆包挂件"
+    ],
+    "ai": "Seed / 字节跳动",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "豆包娘",
+      "Seed"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/seed"
+  },
+  {
+    "slug": "minimax",
+    "name": "MiniMax 娘",
+    "tagline": "粉色贝雷帽与场记板",
+    "intro": "MiniMax 娘是 MiniMax 的女性拟人化角色，亦称海螺娘。ZipZipPipe 版留橙色短发，戴粉色贝雷帽，随身道具包括场记板与照片。",
+    "traits": [
+      "粉色贝雷帽",
+      "橙色短发",
+      "场记板与照片"
+    ],
+    "ai": "MiniMax / MiniMax",
+    "creator": "ZipZipPipe",
+    "aliases": [
+      "海螺娘",
+      "MiniMax"
+    ],
+    "url": "https://genderswapai.com/zh-CN/ai-gijinka/minimax"
+  }
+]

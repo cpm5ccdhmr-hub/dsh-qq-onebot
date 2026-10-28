@@ -1,0 +1,94 @@
+{
+  "name": "dsh-qq-onebot",
+  "version": "1.2.2",
+  "description": "QQ channel plugin for DeepSeek Harness via OneBot 11 / NapCat — private chats and group chats with your agent.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": {
+      "import": "./src/index.js"
+    },
+    "./client": "./client.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "docs",
+    "src",
+    "tools",
+    "client.js",
+    "cordis.patch.yml",
+    "README.md",
+    "CHANGELOG.md",
+    "TESTING.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "qq",
+    "qqbot",
+    "onebot",
+    "onebot11",
+    "napcat",
+    "cordis",
+    "plugin",
+    "chatbot",
+    "ai-agent"
+  ],
+  "license": "MIT",
+  "author": "xier",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CPM5CCDHMR-Hub/dsh-qq-onebot.git"
+  },
+  "homepage": "https://github.com/CPM5CCDHMR-Hub/dsh-qq-onebot#readme",
+  "bugs": {
+    "url": "https://github.com/CPM5CCDHMR-Hub/dsh-qq-onebot/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0",
+    "dsh": ">=0.2.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "peerDependencies": {
+    "@deepseek-ai/cordis": ">=4.0.1",
+    "@deepseek-ai/dsh-agent": ">=0.1.0-rc.6",
+    "@deepseek-ai/dsh-llm": ">=0.1.0-rc.6",
+    "@deepseek-ai/dsh-session": ">=0.1.0-rc.6",
+    "@deepseek-ai/schemastery": ">=3.18.1"
+  },
+  "peerDependenciesMeta": {
+    "@deepseek-ai/cordis": {
+      "optional": false
+    },
+    "@deepseek-ai/dsh-agent": {
+      "optional": false
+    },
+    "@deepseek-ai/dsh-llm": {
+      "optional": false
+    },
+    "@deepseek-ai/dsh-session": {
+      "optional": false
+    },
+    "@deepseek-ai/schemastery": {
+      "optional": false
+    }
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "inject": [
+        "@deepseek-ai/dsh-api-remotes"
+      ]
+    }
+  }
+}
